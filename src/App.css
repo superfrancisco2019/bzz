@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+  color: #cc9900;
+}
+
+.bee {
+  transition:0.25s ease-out all;
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  background: #333;
+  display: table;
+  font-size: 1.5rem;
+}
